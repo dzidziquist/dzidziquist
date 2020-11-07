@@ -7,14 +7,14 @@
 Being an MSc Data Science student currently, I find myself learning other tools such as Analytical tools since I have found a new love in data visualization and storytelling.
 
 
-You can see what I am currently up to on [dzidziquist.com](dzidziquist.com)
+You can see what I am currently up to on [dzidziquist.com](https://dzidziquist.com/)
 
 ## 📬 Get in touch
 
 - Web: [dzidziquist.com](dzidziquist.com)
 - LinkedIn: [linkedin.com/in/dzidziquist/](https://www.linkedin.com/in/maureen-dzifa-awumee-quist-b1498aba/)
-- Twitter: [twitter.com/dzidzi_quist](twitter.com/dzidzi_quist)
-- Blog: [blog/dzidziquist.com](dzidziquist/blog)
+- Twitter: [twitter.com/dzidzi_quist](https://twitter.com/dzidzi_quist)
+- Blog: [blog/dzidziquist.com](https://dzidziquist/blog)
 
 
 ## 🔎 Check out 
