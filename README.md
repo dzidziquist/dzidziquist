@@ -14,7 +14,7 @@ You can see what I am currently up to on [dzidziquist.com](https://dzidziquist.c
 - Web: [dzidziquist.com](https://dzidziquist.com/)
 - LinkedIn: [linkedin.com/in/dzidziquist/](https://www.linkedin.com/in/maureen-dzifa-awumee-quist-b1498aba/)
 - Twitter: [twitter.com/dzidzi_quist](https://twitter.com/dzidzi_quist)
-- Blog: [blog/dzidziquist.com](https://dzidziquist/blog)
+- Blog: [blog/dzidziquist.com](https://dzidziquist.com/blog)
 
 
 ## 🔎 Check out 
